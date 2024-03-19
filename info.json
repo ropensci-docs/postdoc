@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a16918cf56554359f7159e07f050235bad6ea4ac",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2024-01-17 12:08:58",
+    "files": 1,
+    "merge": false,
+    "message": "Apply same class name as RStudio\nSee https://github.com/rstudio/rstudio/pull/13477\n"
+  },
+  "repo": "https://github.com/ropensci/postdoc",
+  "pkg": "postdoc"
+}
