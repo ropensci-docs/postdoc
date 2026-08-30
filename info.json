@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "ac56db0e7eff5c59eeb1129c3f00ea994f16c466",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-01-14T16:33:47Z",
+    "files": 2,
+    "merge": false,
+    "message": "Bump\n"
+  },
+  "repo": "https://github.com/ropensci/postdoc",
+  "pkg": "postdoc",
+  "time": "2026-08-30T07:33:33Z"
+}
